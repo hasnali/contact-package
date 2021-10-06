@@ -1,0 +1,19 @@
+{
+    "name": "allos/contact",
+    "description": "simple contact form",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Allos\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hasan Ali",
+            "email": "hasn2015ali@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
